@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "169465656219",
+    "project_id": "authentication-ea2c8",
+    "storage_bucket": "authentication-ea2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169465656219:android:a00f1ae3eb48462564673e",
+        "android_client_info": {
+          "package_name": "com.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169465656219-mafu95jigvk0u3hfjd8kplunkrfjogdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authentication",
+            "certificate_hash": "31f3eaebef8576ab97a0ff118573f2417e58a7f8"
+          }
+        },
+        {
+          "client_id": "169465656219-eamrb5d45c734n8ftau1434r879s982g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxLEacqbrBEe5S1TsuOgqOP7-ymmqpLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169465656219-eamrb5d45c734n8ftau1434r879s982g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169465656219-ioateu81i3mu73407bctnerg5ir16ath.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Authentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
